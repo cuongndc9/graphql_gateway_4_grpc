@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # go_template
 
 ![golangci-lint status](https://github.com/103cuong/go_template/workflows/golangci-lint/badge.svg)
