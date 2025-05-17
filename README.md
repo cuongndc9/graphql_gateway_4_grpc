@@ -6,6 +6,6 @@
 a lightweight template 🍼 to start a new golang 🦍 project
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🦖
+Action beats perfection.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
