@@ -5,7 +5,4 @@
 
 a lightweight template 🍼 to start a new golang 🦍 project
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦖
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nStay curious. Keep learning. Keep growing.\n🦄\n<!-- INSPIRATIONAL_QUOTE_END -->
