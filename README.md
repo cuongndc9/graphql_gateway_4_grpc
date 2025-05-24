@@ -8,5 +8,5 @@ a lightweight template 🍼 to start a new golang 🦍 project
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🦖
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
