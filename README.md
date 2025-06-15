@@ -7,5 +7,5 @@ a lightweight template 🍼 to start a new golang 🦍 project
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/9d3847b4-d01e-4e62-b18e-12706b955cf3)
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
